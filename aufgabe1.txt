@@ -2,4 +2,4 @@
 
 //Implementieren Sie hier die Lösung
 
-//hier steht meine Lösung
+//Hier steht jetzt die Lösung des Lehrers
